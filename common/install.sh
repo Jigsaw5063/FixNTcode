@@ -1,0 +1,26 @@
+ui_print "TEST VERSION "
+ui_print "***********************************************"
+ui_print "*  FixNTcode module by @JigsawMobile on XDA. *"
+ui_print "***********************************************"
+ui_print " "
+ui_print "The module is intended to fix NT code
+error and enable LTE & mobile data"
+ui_print "after cross-flashing EU firmware."
+ui_print " "
+ui_print "Please flash your original FTM partition image."
+ui_print " "
+ui_print "****** NT Codes ******"
+ui_print "Added AT&T NT code "
+ui_print "Added Verizon NT code"
+ui_print "Added T-Mobile NT code"
+ui_print "Added Docomo NT code JP variant"
+ui_print "Added Softbank NT code JP variant"
+ui_print " "
+ui_print "Added possibility VoLTE and ViLTE to all networks"
+ui_print " "
+
+ui_print "The NT code must be the same from the FTM"
+ui_print "and the NT code inside the cust_path_mapping.cfg file."
+
+ui_print " "
+
